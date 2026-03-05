@@ -11,7 +11,6 @@ Het systeem ondersteunt:
 - Beveiligde backend met rollen  
 - Uitbreidbaarheid naar mobiele app  
 
----
 
 ## 🧩 Probleemstelling
 De club registreert aanwezigheden manueel, wat leidt tot:
@@ -23,7 +22,6 @@ De club registreert aanwezigheden manueel, wat leidt tot:
 
 Het nieuwe systeem moet betrouwbaar, gebruiksvriendelijk, goedkoop te hosten en uitbreidbaar zijn.
 
----
 
 ## 👥 Stakeholders & Gebruikersrollen
 
@@ -57,7 +55,6 @@ Het nieuwe systeem moet betrouwbaar, gebruiksvriendelijk, goedkoop te hosten en 
   - Timestamp opslaan  
   - Geldige/ongeldige scans onderscheiden  
 
----
 
 ## ⚙️ Functionele eisen (User Stories)
 
@@ -97,7 +94,6 @@ Het nieuwe systeem moet betrouwbaar, gebruiksvriendelijk, goedkoop te hosten en 
 - Als lid wil ik dat gegevens eenvoudig via smartphone ingegeven kunnen worden.
 - Als admin wil ik nieuwe activiteiten kunnen toevoegen wanneer nodig.
 
----
 
 ## ✅ Definition of Done (DoD)
 Een feature is *done* wanneer:
@@ -113,7 +109,6 @@ Een feature is *done* wanneer:
 - Documentatie aanwezig is.
 - Stakeholders akkoord zijn.
 
----
 
 ## 🛡️ Niet‑functionele eisen
 
@@ -144,8 +139,6 @@ Een feature is *done* wanneer:
 - Licht en goedkoop te hosten.
 - Geen dure frameworks of licenties.
 
----
-
 ## 📦 Scope
 
 ### In scope
@@ -169,7 +162,3 @@ Een feature is *done* wanneer:
 - Automatische detectie zonder QR (NFC, GPS)  
 - Hardware (scanners, tablets…)  
 
----
-
-## 📄 Licentie
-Dit project is eigendom van WheelzUp en mag enkel gebruikt worden binnen de club of met toestemming van het bestuur.
